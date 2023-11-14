@@ -5,7 +5,7 @@ This is a commercial project for a printing company named Olejnik. I was respons
 
 ## Website
 
-- 👉 Netlify : [https://ptvs.netlify.app/](https://ptvs.netlify.app/)](https://www.olejnik.com.pl/)
+- 👉 Netlify : [(https://www.olejnik.com.pl/)
 
 ## Built With
 HTML,
